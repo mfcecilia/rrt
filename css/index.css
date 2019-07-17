@@ -13,10 +13,15 @@ h1 {
     text-align: center;
 }
 
+.description {
+    text-align: center;
+}
+
 p {
     max-width: 70%;
     margin: auto;
     font-size: 1.3em;
+    color: grey;
 }
 
 .google-form {
