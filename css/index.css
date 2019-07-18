@@ -37,6 +37,7 @@ p {
     max-width: 30%;
     margin: auto;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .links p {
@@ -47,6 +48,8 @@ p {
     text-decoration: none;
     color: purple;
     font-style: oblique;
+    padding: 5%;
+    margin: 5%;
 }
 
 .form {
