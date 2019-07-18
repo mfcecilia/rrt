@@ -28,6 +28,11 @@ p {
     color: darkslategrey;
 }
 
+.form {
+    max-width: 90%;
+    width: 90%;
+}
+
 .google-form {
     text-align: center;
     margin: auto;
