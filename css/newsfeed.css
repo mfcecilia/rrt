@@ -1,0 +1,15 @@
+hr {
+    max-width: 30%;
+}
+
+h3 {
+    color: purple;
+    text-align: center;
+    font-size: 3em;
+    font-style: oblique;
+}
+
+.newsfeed p {
+    text-align: center;
+    font-style: oblique;
+}
