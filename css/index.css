@@ -6,11 +6,15 @@ body {
 
 h1 {
     font-size: 3em;
-    color: gold;
+    color: purple;
     padding: .3em;
     margin: auto;
     font-family: sans-serif;
     text-align: center;
+}
+
+.accent {
+    color: purple;
 }
 
 .description {
@@ -75,7 +79,7 @@ button {
 
 .contact a {
     text-decoration: none;
-    color: black;
+    color: purple;
 }
 
 footer {
