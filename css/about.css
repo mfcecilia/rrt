@@ -1,0 +1,10 @@
+h2 {
+    font-size: 1.3em;
+    margin: auto;
+    max-width: 30%;
+    text-align: center;
+}
+
+hr {
+    max-width: 30%;
+}
