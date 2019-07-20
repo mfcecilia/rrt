@@ -32,6 +32,10 @@ p {
     color: darkslategrey;
 }
 
+.description img {
+    max-width: 30%;
+}
+
 .links {
     display: flex;
     max-width: 30%;
