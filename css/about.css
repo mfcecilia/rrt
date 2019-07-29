@@ -24,10 +24,11 @@ hr {
 }
 
 .about {
-    
+    text-align: center;
 }
 
-.about p {
+
+.welcome p {
     max-width: 50%;
     margin: auto;
 }
