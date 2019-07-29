@@ -35,7 +35,6 @@ hr {
 .description .container {
     display: flex;
     flex-flow: row;
-    max-width: 90%;
     margin: auto;
 }
 
@@ -59,10 +58,9 @@ p {
     color: darkslategrey;
 }
 
-.description img {
-    max-width: 15%;
+.container img {
+    max-width: 10%;
     margin: auto;
-    display: block;
 }
 
 .links {
