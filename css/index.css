@@ -27,8 +27,7 @@ hr {
     flex-flow: column;
     text-align: center;
     max-width: 90%;
-    padding: 1.5%;
-    margin: auto;
+    margin: 3%;
     display: flex;
     background-color: white;
 }
@@ -40,8 +39,12 @@ hr {
     margin: auto;
 }
 
+.container p {
+    text-align: left;
+}
+
 .description-cont {
-    max-width: 100%;
+    max-width: 70%;
     display: block;
 }
 
