@@ -1,3 +1,12 @@
+body {
+    margin: 0;
+    background-color: lemonchiffon;
+}
+
+h1 {
+    text-align: center;
+}
+
 h1 a {
     text-decoration: none;
     color: purple;
@@ -5,11 +14,29 @@ h1 a {
 
 h2 {
     font-size: 1.3em;
+    color: mediumpurple;
+    max-width: 50%;
     margin: auto;
-    max-width: 30%;
-    text-align: center;
 }
 
 hr {
     max-width: 30%;
+}
+
+.about {
+    
+}
+
+.about p {
+    max-width: 50%;
+    margin: auto;
+}
+
+.how-to {
+    
+}
+
+.how-to p {
+    max-width: 50%;
+    margin: auto;
 }
