@@ -43,8 +43,9 @@ hr {
 }
 
 .description-cont {
-    max-width: 70%;
+    max-width: 90%;
     display: block;
+    text-align: left;
 }
 
 .description p {
