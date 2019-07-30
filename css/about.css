@@ -75,13 +75,37 @@ hr {
     font-family: rosario, sans-serif;
 }
 
+.contact-gif {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    max-width: 70%;
+}
+
+.contact-gif p {
+    font-weight: 700;
+    float: left;
+    font-size: 1.3em;
+    color: purple;
+}
+
+.contact-gif img {
+    max-width: 30%;
+}
+
 .contact p {
-    color: grey;
+    max-width: 70%;
+    margin: auto;
+    text-align: start;
 }
 
 .contact a {
     text-decoration: none;
     color: purple;
+}
+
+.contact a:hover {
+    color: mediumpurple;
 }
 
 footer {
