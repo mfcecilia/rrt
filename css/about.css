@@ -25,6 +25,22 @@ hr {
     max-width: 30%;
 }
 
+.container {
+    max-width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.container img {
+    max-width: 30%;
+}
+
+.container .how-to {
+    max-width: 50%;
+}
+
+
 .about {
     text-align: center;
     font-size: 1.5em;
