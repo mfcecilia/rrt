@@ -35,7 +35,8 @@ hr {
     margin: 3%;
 }
 
-.nah {
+.description .nah {
+    float: right;
     max-width: 30%;
 }
 
