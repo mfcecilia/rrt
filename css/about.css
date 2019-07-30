@@ -5,6 +5,7 @@ body {
 
 h1 {
     text-align: center;
+    font-family: rosario, sans-serif;
 }
 
 h1 a {
@@ -17,6 +18,7 @@ h2 {
     color: mediumpurple;
     max-width: 50%;
     margin: auto;
+    font-family: rosario, sans-serif;
 }
 
 hr {
@@ -25,12 +27,14 @@ hr {
 
 .about {
     text-align: center;
+    font-size: 1.5em;
 }
 
 
 .welcome p {
     max-width: 50%;
     margin: auto;
+    font-family: rosario, sans-serif;
 }
 
 .how-to {
@@ -40,21 +44,25 @@ hr {
 .how-to p {
     max-width: 50%;
     margin: auto;
+    font-family: rosario, sans-serif;
 }
 
 .why p {
     max-width: 50%;
     margin: auto;
+    font-family: rosario, sans-serif;
 }
 
 .next p {
     max-width: 50%;
     margin: auto;
+    font-family: rosario, sans-serif;
 }
 
 .acknowledgements p {
     max-width: 50%;
     margin: auto;
+    font-family: rosario, sans-serif;
 }
 
 .contact {
@@ -64,6 +72,7 @@ hr {
     margin: auto;
     padding: 3%;
     background-color: white;
+    font-family: rosario, sans-serif;
 }
 
 .contact p {
