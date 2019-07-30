@@ -29,11 +29,10 @@ hr {
     max-width: 100%;
     display: flex;
     justify-content: space-around;
-    margin: auto;
 }
 
 .container img {
-    max-width: 30%;
+    max-width: 50%;
 }
 
 .container .how-to {
@@ -73,6 +72,17 @@ hr {
     max-width: 50%;
     margin: auto;
     font-family: rosario, sans-serif;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    max-width: 80%;
+    margin: auto;
+}
+
+.wrapper img {
+    max-width: 30%;
 }
 
 .acknowledgements p {
