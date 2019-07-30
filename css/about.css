@@ -56,3 +56,35 @@ hr {
     max-width: 50%;
     margin: auto;
 }
+
+.contact {
+    text-align: center;
+    border: 1.3px solid gold;
+    max-width: 70%;
+    margin: auto;
+    padding: 3%;
+    background-color: white;
+}
+
+.contact p {
+    color: grey;
+}
+
+.contact a {
+    text-decoration: none;
+    color: purple;
+}
+
+footer {
+    bottom: 0;
+    color: grey;
+    margin: auto;
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
+    color: grey;
+}
