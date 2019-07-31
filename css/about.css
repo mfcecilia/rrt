@@ -25,6 +25,10 @@ hr {
     max-width: 30%;
 }
 
+.accent {
+    color: mediumpurple;
+}
+
 .container {
     max-width: 100%;
     display: flex;
