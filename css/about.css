@@ -25,22 +25,10 @@ hr {
     max-width: 30%;
 }
 
-.accent {
-    color: mediumpurple;
-}
-
-.container {
-    max-width: 100%;
-    display: flex;
-    justify-content: space-around;
-}
-
-.container img {
-    max-width: 50%;
-}
-
-.container .how-to {
-    max-width: 50%;
+.edits {
+    font-family: rosario, sans-serif;
+    max-width: 90%;
+    margin: auto;
 }
 
 
@@ -50,6 +38,8 @@ hr {
 }
 
 
+
+
 .welcome p {
     max-width: 50%;
     margin: auto;
@@ -57,13 +47,19 @@ hr {
 }
 
 .how-to {
-    
+    display: flex;
+    flex-flow: column;
 }
 
 .how-to p {
-    max-width: 50%;
+    max-width: 90%;
     margin: auto;
     font-family: rosario, sans-serif;
+}
+
+.how-to img {
+    max-width: 30%;
+    margin: auto;
 }
 
 .why p {
