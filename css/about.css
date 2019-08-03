@@ -27,7 +27,7 @@ hr {
 
 .edits {
     font-family: rosario, sans-serif;
-    max-width: 90%;
+    max-width: 80%;
     margin: auto;
 }
 
@@ -41,7 +41,7 @@ hr {
 
 
 .welcome p {
-    max-width: 50%;
+    max-width: 90%;
     margin: auto;
     font-family: rosario, sans-serif;
 }
@@ -49,6 +49,7 @@ hr {
 .how-to {
     display: flex;
     flex-flow: column;
+    max-width: 80%;
 }
 
 .how-to p {
