@@ -33,9 +33,11 @@ hr {
 
 .edits a {
     text-decoration: none;
-    color: purple;
 }
 
+.edits b {
+    color: purple;
+}
 
 .about {
     text-align: center;
