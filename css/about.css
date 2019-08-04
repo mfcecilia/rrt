@@ -81,7 +81,7 @@ hr {
 }
 
 .next p {
-    max-width: 50%;
+    max-width: 70%;
     margin: auto;
     font-family: rosario, sans-serif;
 }
@@ -89,7 +89,7 @@ hr {
 .wrapper {
     display: flex;
     align-items: center;
-    max-width: 80%;
+    max-width: 90%;
     margin: auto;
 }
 
