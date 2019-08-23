@@ -37,11 +37,27 @@ hr {
 
 .description div {
     margin: 3%;
+    line-height: 200%;
 }
 
 .description .nah {
     float: right;
     max-width: 30%;
+}
+
+.welcome {
+    max-width: 90%;
+    background-color: white;
+    margin: auto;
+}
+
+.welcome p {
+    max-width: 90%;
+    background-color: white;
+    margin: auto;
+    font-family: rosario, sans-serif;
+    color: grey;
+    line-height: 200%;
 }
 
 .links {
