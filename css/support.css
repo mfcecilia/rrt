@@ -3,3 +3,11 @@
     margin: auto;
     font-family: rosario, sans-serif;
 }
+
+section {
+    display: flex;
+    margin: auto;
+    max-width: 70%;
+    flex-flow: column;
+    text-align: center;
+}
