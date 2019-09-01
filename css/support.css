@@ -3,6 +3,8 @@
     margin: auto;
     font-family: rosario, sans-serif;
     text-align: center;
+    line-height: 2em;
+    color: slategrey;
 }
 
 section {
@@ -11,4 +13,14 @@ section {
     max-width: 70%;
     flex-flow: column;
     text-align: center;
+    line-height: 2em;
+    font-style: oblique;
+}
+
+section hr {
+    width: 30%;
+}
+
+.contact {
+    line-height: 2em;
 }
