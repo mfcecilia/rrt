@@ -15,7 +15,7 @@ h1 a {
 
 h2 {
     font-size: 1.3em;
-    color: mediumpurple;
+    color: purple;
     max-width: 50%;
     margin: auto;
     font-family: rosario, sans-serif;
@@ -46,6 +46,7 @@ hr {
 .about {
     text-align: center;
     font-size: 1.5em;
+    color: purple;
 }
 
 
