@@ -19,6 +19,7 @@ h2 {
     max-width: 50%;
     margin: auto;
     font-family: rosario, sans-serif;
+    text-align: center;
 }
 
 hr {
@@ -29,6 +30,7 @@ hr {
     font-family: rosario, sans-serif;
     max-width: 80%;
     margin: auto;
+    text-align: center;
 }
 
 .edits a {
@@ -61,7 +63,6 @@ hr {
 .how-to {
     display: flex;
     flex-flow: column;
-    max-width: 80%;
 }
 
 .how-to p {
@@ -114,28 +115,18 @@ hr {
     font-family: rosario, sans-serif;
 }
 
-.contact-gif {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    max-width: 70%;
-}
-
 .contact-gif p {
     font-weight: 700;
-    float: left;
     font-size: 1.3em;
     color: purple;
+    text-align: center;
 }
 
-.contact-gif img {
-    max-width: 30%;
-}
 
 .contact p {
     max-width: 70%;
     margin: auto;
-    text-align: start;
+    text-align: center;
 }
 
 .contact a {
