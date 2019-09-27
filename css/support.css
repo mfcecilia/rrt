@@ -1,26 +1,182 @@
-.support p {
-    max-width: 70%;
-    margin: auto;
-    font-family: rosario, sans-serif;
-    text-align: center;
-    line-height: 2em;
-    color: slategrey;
+body {
+    min-height: 100%;
+    height: 100%;
+    margin: 0;
+    background-color: #0F0F0F;
+    align-content: center;
 }
 
-section {
+h1 {
+    font-size: 3em;
+    color: #D61043;
+    padding: .3em;
+    margin: auto;
+    font-family: helvetica;
+    text-align: center;
+}
+
+hr {
+    max-width: 100%;
+    
+}
+
+.accent {
+    color: #D61043;
+    font-family: helvetica;
+    
+}
+
+.description {
     display: flex;
+    max-width: 90%;
     margin: auto;
-    max-width: 70%;
-    flex-flow: column;
-    text-align: center;
-    line-height: 2em;
-    font-style: oblique;
+    background-color: #0F0F0F;
+    align-items: center;
+    align-content: space-around;
+    color: white;
+    font-family: helvetica;
 }
 
-section hr {
-    width: 30%;
+.description div {
+    margin: 3%;
+    line-height: 200%;
 }
+
+.welcome {
+    max-width: 90%;
+    background-color: white;
+    margin: auto;
+    align-content: center
+}
+
+.welcome p {
+    max-width: 90%;
+    background-color: #FAE86E;
+    margin: auto;
+    font-family: helvetica;
+    color: grey;
+    line-height: 200%;
+    align-content: center;
+}
+
+.links {
+    display: flex;
+    max-width: 100%;
+    margin: auto;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    font-size: 1.5em;
+    font-family: helvetica;
+}
+
+.links p {
+    color: #FAE86E;
+}
+
+.links p:hover {
+    color:#D61043;
+}
+
+.links a {
+    text-decoration: none;
+    color: #D61043;
+    font-style: oblique;
+    text-align: center;
+    padding: 1%;
+}
+
+.links a: hover {
+    color: #D61043;
+}
+
+.form {
+    max-width: 70%;
+}
+
+.google-form {
+    text-align: center;
+    margin: auto;
+}
+
 
 .contact {
-    line-height: 2em;
+    text-align: center;
+    border: 1.3px solid  #FAE86E;
+    max-width: 70%;
+    margin: auto;
+    padding: 3%;
+    background-color: #D61043;
+    font-family: rosario, sans-serif;
+}
+
+.contact p {
+    color: #FAE86E;
+}
+
+.contact a {
+    text-decoration: none;
+    color: #FAE86E;
+}
+
+footer {
+    bottom: 0;
+    color: grey;
+    margin: auto;
+    width: 50%;
+    max-width: 100%;
+    text-align: center;
+    font-size: 13px
+}
+
+footer a {
+    text-decoration: none;
+    color: grey;
+}
+
+.button {
+  background-color: #FAE86E;
+  border: none;
+  color:  #0F0F0F;
+  padding: 10px 10px;
+  text-align: center;
+  font-size: 18px;
+    font-family: helvetica;
+  cursor: pointer;
+    align-content: center;
+    text-decoration: none;
+    display: block;
+    max-width: 30%;
+    margin: auto;
+            font-style: oblique;
+}
+
+.button:hover {
+  background-color: #D61043;
+            font-style: oblique;
+    
+
+}
+
+img {
+    margin: auto;
+    max-width: 40%; 
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: #D61043;
+}
+
+paypal_button:hover {
+  background-color: #D61043;
+font-style: oblique;
+    
 }
