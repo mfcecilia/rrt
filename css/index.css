@@ -163,3 +163,9 @@ img {
     display: block;
     margin: auto;
 }
+
+h2 {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
