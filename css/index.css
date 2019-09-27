@@ -169,3 +169,8 @@ h2 {
     text-align: center;
     text-decoration: none;
 }
+
+a {
+    text-decoration: none;
+    color: #D61043;
+}
