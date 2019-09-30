@@ -6,6 +6,8 @@
         <link rel="stylesheet" href="css/newsfeed.css">
         <script src="//use.edgefonts.net/rosario.js"></script>
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+        
+        
     </header>
     
     <body>
@@ -62,6 +64,28 @@
         <br>
         
         <br>
+        
+        <!-- The core Firebase JS SDK is always required and must be listed first -->
+        <script src="https://www.gstatic.com/firebasejs/7.0.0/firebase-app.js"></script>
+
+        <!-- TODO: Add SDKs for Firebase products that you want to use
+             https://firebase.google.com/docs/web/setup#available-libraries -->
+        <script src="/__/firebase/7.0.0/firebase-database.js"></script>
+
+        <script>
+          // Your web app's Firebase configuration
+          var firebaseConfig = {
+            apiKey: "AIzaSyCXUm6IdA-bR22IznW9GvjuP0_J32Fu41Y",
+            authDomain: "report-racism.firebaseapp.com",
+            databaseURL: "https://report-racism.firebaseio.com",
+            projectId: "report-racism",
+            storageBucket: "report-racism.appspot.com",
+            messagingSenderId: "966876142075",
+            appId: "1:966876142075:web:caeebbdf108460fc21d35e"
+          };
+          // Initialize Firebase
+          firebase.initializeApp(firebaseConfig);
+        </script>
 
     </body>
 </html>
