@@ -167,6 +167,7 @@ img {
 }
 
 h2 {
+    font-family: helvetica;
     color: white;
     text-align: center;
     text-decoration: none;
@@ -175,4 +176,15 @@ h2 {
 a {
     text-decoration: none;
     color: #D61043;
+}
+
+.response p {
+    color: white;
+    max-width: 70%;
+    margin: auto;
+    font-family: helvetica;
+}
+
+.response hr {
+    max-width: 70%;
 }
